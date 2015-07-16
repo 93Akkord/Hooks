@@ -1,9 +1,10 @@
 {
-"user": [
-    {
-    "id": "001",
-    "name": "Raj Amal",
-    "email": "raj.amalw@gmail.com"
-    }
+    "one": [
+        {
+        "oneClass": "aib",
+        "oneMethod": "q",
+        "oneMethodTwoThree": "a"
+        "callB": "b"
+        }
     ]
 }
