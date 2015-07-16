@@ -1,10 +1,10 @@
 {
     "one": [
         {
-        "aib": "aib",
-        "q": "q",
-        "a": "a",
-        "b": "b"
+        "oneClass": "aib",
+        "oneMethod": "q",
+        "oneMethodTwoThree": "a",
+        "callB": "b"
         }
     ]
 }
