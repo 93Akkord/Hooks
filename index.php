@@ -3,7 +3,7 @@
         {
         "oneClass": "aib",
         "oneMethod": "q",
-        "oneMethodTwoThree": "a"
+        "oneMethodTwoThree": "a",
         "callB": "b"
         }
     ]
