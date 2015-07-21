@@ -26,7 +26,7 @@
   ],
   "five": [
     {
-      "fiveClass": "vu",
+      "fiveClass": "vt",
       "fiveMethod": "a",
       "fiveArg0": "vq",
       "callB": "see array one"
