@@ -1,7 +1,7 @@
 {
   "one": [
     {
-      "oneClass": "aib",
+      "oneClass": "aia",
       "oneMethod": "q",
       "oneMethodTwoThree": "a",
       "callB": "b"
@@ -9,18 +9,18 @@
   ],
   "two": [
     {
-      "twoClass": "atr",
+      "twoClass": "atq",
       "twoMethod": "a"
     }
   ],
   "three": [
     {
-      "threeClass": "ahm"
+      "threeClass": "ahl"
     }
   ],
   "four": [
     {
-      "fourClass": "agt",
+      "fourClass": "ags",
       "fourMethod": "a"
     }
   ],
@@ -28,7 +28,7 @@
     {
       "fiveClass": "vu",
       "fiveMethod": "a",
-      "fiveArg0": "vr",
+      "fiveArg0": "vq",
       "callB": "see array one"
     }
   ]
